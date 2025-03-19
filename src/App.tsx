@@ -13,6 +13,7 @@ function App() {
   // true means search by Finnish word; false means search by Romani.
   const [isFinnishSearch, setIsFinnishSearch] = useState(true)
   const [dictionary, setDictionary] = useState<DictionaryEntry[]>([])
+  const [selectedEntry, setSelectedEntry] = useState<{ label: string; translation: string } | null>(null)
 
   useEffect(() => {
     const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ".split("")
@@ -94,13 +95,13 @@ function App() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6">
-            Finnish-Romani Dictionary
+            {isFinnishSearch ? "Suomi – romanikieli" : "Kaalengo – fintiko"}
           </Typography>
         </Toolbar>
       </AppBar>
       <Box sx={{ position: 'fixed', top: 10, right: 10, display: 'flex', alignItems: 'center' }}>
         <Typography variant="body1" sx={{ mr: 1 }}>
-          {isFinnishSearch ? 'Finnish' : 'Romani'}
+          {isFinnishSearch ? 'suomi' : 'kaalengo'}
         </Typography>
         <Switch checked={!isFinnishSearch} onChange={handleToggle} />
       </Box>
@@ -109,6 +110,7 @@ function App() {
           ListboxComponent={VirtualizedListbox}
           options={options}
           getOptionLabel={(option) => option.label}
+          onChange={(event, newValue) => setSelectedEntry(newValue)}
           filterOptions={(opts, { inputValue }) => {
             const normalizedInput = normalize(inputValue);
             return opts.filter(option => normalize(option.label).startsWith(normalizedInput));
@@ -119,9 +121,15 @@ function App() {
             </li>
           )}
           renderInput={(params) => (
-            <TextField {...params} label="Search word" variant="outlined" />
+            <TextField {...params} label="Etsi sana" variant="outlined" />
           )}
         />
+        {selectedEntry && (
+          <Box mt={2} p={2} border="1px solid #ccc" borderRadius="4px">
+            <Typography variant="h5">{selectedEntry.label}</Typography>
+            <Typography variant="subtitle1">{selectedEntry.translation}</Typography>
+          </Box>
+        )}
       </Container>
       <footer style={{ position: 'fixed', bottom: '20px', left: '50%', transform: 'translateX(-50%)', textAlign: 'center', padding: '10px', fontSize: 'smaller' }}>
         Source: <a href="https://sanat.csc.fi/wiki/Suomen_romanikielen_verkkosanakirja" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
