@@ -123,6 +123,11 @@ function App() {
           )}
         />
       </Container>
+      <footer style={{ position: 'fixed', bottom: '20px', left: '50%', transform: 'translateX(-50%)', textAlign: 'center', padding: '10px', fontSize: 'smaller' }}>
+        Source: <a href="https://sanat.csc.fi/wiki/Suomen_romanikielen_verkkosanakirja" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
+          https://sanat.csc.fi/wiki/Suomen_romanikielen_verkkosanakirja
+        </a>
+      </footer>
     </>
   )
 }
