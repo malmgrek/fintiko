@@ -1,0 +1,826 @@
+{
+  "haalea": [
+    "bimaasuno",
+    "bimaasjavitiko"
+  ],
+  "haalistaa": [
+    "bleekavaa"
+  ],
+  "haalistua": [
+    "bleekuvaa",
+    "leiguvaa"
+  ],
+  "haarukka": [
+    "gafla"
+  ],
+  "haava": [
+    "skoora",
+    "tšuuridiini",
+    "dab",
+    "damb",
+    "heu",
+    "ȟeu"
+  ],
+  "haavoittaa": [
+    "dabbavaa",
+    "dambavaa",
+    "dambjavaa",
+    "heujavaa",
+    "ȟeujavaa",
+    "ratavaa",
+    "tšingarvaa",
+    "tšingravaa"
+  ],
+  "haavoittua": [
+    "dambuvaa"
+  ],
+  "haiseminen": [
+    "sungiba"
+  ],
+  "haiseva": [
+    "khandalo"
+  ],
+  "haista": [
+    "khandaa"
+  ],
+  "haistaa": [
+    "sungaa"
+  ],
+  "haitata": [
+    "skaadavaa"
+  ],
+  "hajaantua": [
+    "partjuvaa"
+  ],
+  "hajottaa": [
+    "partjavaa"
+  ],
+  "haju": [
+    "khandiba",
+    "khaan",
+    "sungiba",
+    "sung"
+  ],
+  "haka": [
+    "hakkos",
+    "haaga"
+  ],
+  "hakanen": [
+    "hakkos"
+  ],
+  "hakata": [
+    "hungavaa"
+  ],
+  "hakea": [
+    "roodaa"
+  ],
+  "hakija": [
+    "roodiboskiiro"
+  ],
+  "hakkaaja": [
+    "hungiboskiiro"
+  ],
+  "hakkaus": [
+    "hungiba"
+  ],
+  "hakkelus": [
+    "ȟundri"
+  ],
+  "hakkuu": [
+    "hungiba"
+  ],
+  "haku": [
+    "roodiba"
+  ],
+  "haljeta": [
+    "pharjuvaa"
+  ],
+  "halkaista": [
+    "pharavaa",
+    "phangaa"
+  ],
+  "halkaistu": [
+    "pharimen",
+    "pharimen"
+  ],
+  "halkaistuna": [
+    "phanglo"
+  ],
+  "halkeama": [
+    "phangiba"
+  ],
+  "halki": [
+    "pharimen",
+    "pharado"
+  ],
+  "halla": [
+    "maasos"
+  ],
+  "hallita": [
+    "fallavaa"
+  ],
+  "hallitsematon": [
+    "bifallimen"
+  ],
+  "hallitus": [
+    "falliba"
+  ],
+  "hallitusmies": [
+    "faldakiiro"
+  ],
+  "halpa": [
+    "lokko",
+    "bikuȟ"
+  ],
+  "halpamainen": [
+    "bikuȟȟeskiiro"
+  ],
+  "halu": [
+    "džinta",
+    "aaniba"
+  ],
+  "haluta": [
+    "kammaa",
+    "aanavaa"
+  ],
+  "halvaanutua": [
+    "taaguvaa"
+  ],
+  "halvaus": [
+    "taagiba"
+  ],
+  "halvennus": [
+    "beskjiba"
+  ],
+  "halventaa": [
+    "beskjavaa"
+  ],
+  "halveta": [
+    "beskjuvaa"
+  ],
+  "hame": [
+    "tšoȟȟa"
+  ],
+  "hammas": [
+    "daan"
+  ],
+  "hamppu": [
+    "hampa"
+  ],
+  "hangata": [
+    "morraa"
+  ],
+  "hanhi": [
+    "babaja"
+  ],
+  "hankala": [
+    "bilokko",
+    "prissavitiko"
+  ],
+  "hankkia": [
+    "hommuvaa"
+  ],
+  "hapan": [
+    "ȟutlo"
+  ],
+  "hapantua": [
+    "ȟutjuvaa"
+  ],
+  "hapata": [
+    "ȟutjuvaa"
+  ],
+  "hapattaa": [
+    "ȟutjavaa"
+  ],
+  "happamesti": [
+    "ȟutles"
+  ],
+  "harakka": [
+    "kakkeraska"
+  ],
+  "harja": [
+    "karros",
+    "kar"
+  ],
+  "harjanne": [
+    "maan"
+  ],
+  "harju": [
+    "maan"
+  ],
+  "harmaa": [
+    "siivo"
+  ],
+  "harmaus": [
+    "siiviba"
+  ],
+  "harmi": [
+    "skaada"
+  ],
+  "harmiton": [
+    "biskaadiboskiiro"
+  ],
+  "hartia": [
+    "phikko"
+  ],
+  "hartiahuivi": [
+    "kirsi"
+  ],
+  "hartiat": [
+    "kak"
+  ],
+  "harvoin": [
+    "biofti"
+  ],
+  "hattu": [
+    "staadi"
+  ],
+  "hatuntekijä": [
+    "staadijengiiro"
+  ],
+  "haudata": [
+    "greevavaa",
+    "gruopavaa"
+  ],
+  "haudattu": [
+    "greevimen"
+  ],
+  "hauha": [
+    "ȟlieva"
+  ],
+  "hauhaa": [
+    "mooljavaa"
+  ],
+  "hauki": [
+    "stukka"
+  ],
+  "haukkua": [
+    "ȟellavaa"
+  ],
+  "haukkuja": [
+    "ȟelliboskiiro"
+  ],
+  "haukkuminen": [
+    "ȟelliba"
+  ],
+  "haukotella": [
+    "ȟamuvaa"
+  ],
+  "haukotus": [
+    "ȟambia"
+  ],
+  "hauli": [
+    "haaglo"
+  ],
+  "hauras": [
+    "bikniis"
+  ],
+  "haureellinen": [
+    "pirjavitiko"
+  ],
+  "hauska": [
+    "lustikaano",
+    "lustigo"
+  ],
+  "hauskasti": [
+    "gruopa",
+    "grambos"
+  ],
+  "hautajaiset": [
+    "grävööri"
+  ],
+  "havumaja": [
+    "moikka"
+  ],
+  "he": [
+    "joon"
+  ],
+  "hedelmä": [
+    "heldos",
+    "fruukto"
+  ],
+  "hedelmällinen": [
+    "heldivitiko"
+  ],
+  "hehtaari": [
+    "hektaaros"
+  ],
+  "heidän": [
+    "lengo"
+  ],
+  "heijastaa": [
+    "paaljavaa"
+  ],
+  "heikentää": [
+    "yynligavaa"
+  ],
+  "heiketä": [
+    "yynliguvaa"
+  ],
+  "heikko": [
+    "armsaaligo",
+    "džaaligo",
+    "yynligo"
+  ],
+  "heikkous": [
+    "armsaaliba",
+    "armsaaligiba",
+    "yynligiba"
+  ],
+  "heikosti": [
+    "džaaliges"
+  ],
+  "heimolainen": [
+    "folkina",
+    "ȟlaagakiiro"
+  ],
+  "heinä": [
+    "tšampi",
+    "khas"
+  ],
+  "heinäkasa": [
+    "stongos"
+  ],
+  "heitto": [
+    "ȟlengiba"
+  ],
+  "heittäjä": [
+    "ȟlengiboskiiro"
+  ],
+  "heittäytyä": [
+    "ȟlenguvaa"
+  ],
+  "heittää": [
+    "ȟlengavaa",
+    "tšuravaa"
+  ],
+  "hella": [
+    "bou"
+  ],
+  "helle": [
+    "ȟariba",
+    "khamjiba",
+    "khamliba",
+    "tattiba"
+  ],
+  "helluntai": [
+    "pinsta"
+  ],
+  "helma": [
+    "bossa",
+    "poddža",
+    "ponsa"
+  ],
+  "helmi": [
+    "miritš"
+  ],
+  "helppo": [
+    "lokko"
+  ],
+  "helvetti": [
+    "helveta"
+  ],
+  "hemmotella": [
+    "butšavaa"
+  ],
+  "hemmoteltu": [
+    "butšimen",
+    "putšimen"
+  ],
+  "hengellinen": [
+    "deuleskiiro",
+    "deulikaano"
+  ],
+  "hengenveto": [
+    "draagos"
+  ],
+  "hengetön": [
+    "bidžimnaskiiro"
+  ],
+  "henki": [
+    "onnos",
+    "džiiben"
+  ],
+  "henkikirjoittamaton": [
+    "biliineskiiro"
+  ],
+  "herne": [
+    "ȟirȟil"
+  ],
+  "herra": [
+    "rai",
+    "räj"
+  ],
+  "herrastella": [
+    "ranjavaa"
+  ],
+  "hertta": [
+    "džiijeskiro"
+  ],
+  "herttainen": [
+    "lembigo"
+  ],
+  "herättäjä": [
+    "džangiboskero"
+  ],
+  "herättää": [
+    "skofjuvaa",
+    "džangavaa"
+  ],
+  "herätys": [
+    "džangiba",
+    "skofjiba"
+  ],
+  "herätä": [
+    "džanguvaa"
+  ],
+  "heti": [
+    "hast",
+    "fuort",
+    "reet"
+  ],
+  "hetki": [
+    "stunna"
+  ],
+  "hevonen": [
+    "grai",
+    "hestos",
+    "mortti"
+  ],
+  "hevosenkenkä": [
+    "petalos"
+  ],
+  "hevosharja": [
+    "broȟta"
+  ],
+  "hevosenvaihtaja": [
+    "hestbyyteris"
+  ],
+  "hiekka": [
+    "džanta"
+  ],
+  "hienojakoinen": [
+    "ȟundro"
+  ],
+  "hienous": [
+    "saaniba"
+  ],
+  "hiha": [
+    "bai"
+  ],
+  "hihaton": [
+    "bibaijano"
+  ],
+  "hihna": [
+    "riema",
+    "simeri"
+  ],
+  "hiilenpolttaja": [
+    "angarengero"
+  ],
+  "hiiri": [
+    "smooran"
+  ],
+  "hiiva": [
+    "ȟunt",
+    "jest"
+  ],
+  "hikoilla": [
+    "khamjuvaa"
+  ],
+  "hiljaa": [
+    "ȟukkar",
+    "poȟukkar",
+    "stiil"
+  ],
+  "hiljainen": [
+    "ȟukkarno",
+    "stiil"
+  ],
+  "hiljaisuus": [
+    "ȟukkirba",
+    "stiiliba"
+  ],
+  "hiljentyä": [
+    "ȟukruvaa"
+  ],
+  "hiljentää": [
+    "ȟukravaa"
+  ],
+  "hinta": [
+    "priisa"
+  ],
+  "hiostaa": [
+    "khamjavaa"
+  ],
+  "hirttää": [
+    "hengavaa"
+  ],
+  "historia": [
+    "histores"
+  ],
+  "hitaasti": [
+    "ȟukkar"
+  ],
+  "hius": [
+    "baal"
+  ],
+  "hohde": [
+    "blankiba",
+    "glimmiba"
+  ],
+  "hohtimet": [
+    "plouvi"
+  ],
+  "hoitaa": [
+    "rakkaa"
+  ],
+  "hoitaa taloutta": [
+    "huushollavaa"
+  ],
+  "home": [
+    "moȟ"
+  ],
+  "hopea": [
+    "rup"
+  ],
+  "hopeinen": [
+    "rupano",
+    "rupavo"
+  ],
+  "hopeoida": [
+    "rupjavaa"
+  ],
+  "houkutella": [
+    "lokkavaa",
+    "malvavaa"
+  ],
+  "houkuttelija": [
+    "lokkiboskiiro"
+  ],
+  "houkuttelu": [
+    "lokkiba"
+  ],
+  "houre": [
+    "dilliba"
+  ],
+  "housut": [
+    "ȟolluja",
+    "böksi"
+  ],
+  "huhu": [
+    "aakni"
+  ],
+  "huilu": [
+    "fleeda"
+  ],
+  "huimata": [
+    "džaalavaa"
+  ],
+  "huippu": [
+    "karros",
+    "kar",
+    "doppa",
+    "toppa"
+  ],
+  "huivi": [
+    "diklo"
+  ],
+  "hukkaan": [
+    "tšutšes"
+  ],
+  "hukkua": [
+    "džonkuvaa"
+  ],
+  "hukkuminen": [
+    "džonkiba"
+  ],
+  "hukuttaa": [
+    "džonkavaa"
+  ],
+  "hullu": [
+    "dinalo"
+  ],
+  "hulluus": [
+    "dinliba"
+  ],
+  "humala": [
+    "pimnaskiba"
+  ],
+  "humalainen": [
+    "matto"
+  ],
+  "humaltua": [
+    "masjulvaa",
+    "masjuvaa"
+  ],
+  "hunaja": [
+    "meeda",
+    "mönda"
+  ],
+  "huolenpito": [
+    "omsorja",
+    "omsoroga"
+  ],
+  "huoli": [
+    "omsorja",
+    "omsoroga"
+  ],
+  "huolimaton": [
+    "laatsungisa",
+    "laatsungos"
+  ],
+  "huolto": [
+    "omsoroga"
+  ],
+  "huomenna": [
+    "sartti"
+  ],
+  "huominen": [
+    "sarra"
+  ],
+  "huono": [
+    "bengalo",
+    "narvalo",
+    "dooligo",
+    "bilatšo",
+    "endvalo"
+  ],
+  "huonompi": [
+    "bengide",
+    "veride"
+  ],
+  "huonota": [
+    "bengjulvaa"
+  ],
+  "huora": [
+    "lubni"
+  ],
+  "huorapukki": [
+    "lubno"
+  ],
+  "huotra": [
+    "paijer"
+  ],
+  "hupsutus": [
+    "dilliba"
+  ],
+  "hurskas": [
+    "deuleskiiro",
+    "deulikaano",
+    "deulavitiko"
+  ],
+  "hursti": [
+    "hursta"
+  ],
+  "hutiloida": [
+    "laatuvaa"
+  ],
+  "huuhtoa": [
+    "skollavaa"
+  ],
+  "huuli": [
+    "lippos"
+  ],
+  "huutaa": [
+    "khaaraa"
+  ],
+  "huutaminen": [
+    "goolidiiben"
+  ],
+  "hyi": [
+    "fyyda"
+  ],
+  "hylätä": [
+    "ȟyytavaa",
+    "kharavaa"
+  ],
+  "hyppiä": [
+    "ranuvaa"
+  ],
+  "hyppy": [
+    "raniba"
+  ],
+  "hyppääjä": [
+    "raniboskiiro"
+  ],
+  "hyrrä": [
+    "trystengiiro"
+  ],
+  "hyvä": [
+    "tšiȟko",
+    "latšo",
+    "miȟto"
+  ],
+  "hyväillä": [
+    "butšavaa",
+    "liitavaa"
+  ],
+  "hyödyllinen": [
+    "hyötyvitiko",
+    "tšenstavitiko"
+  ],
+  "hyönteinen": [
+    "saanoȟatšibongiiro",
+    "beedi"
+  ],
+  "hyöty": [
+    "gottiba",
+    "hytötiba"
+  ],
+  "hällentyä": [
+    "phutruvaa"
+  ],
+  "hämärtyä": [
+    "ȟimluvaa"
+  ],
+  "hämäryys": [
+    "ȟimlinga"
+  ],
+  "hämärä": [
+    "ȟimlinga"
+  ],
+  "hän (miehestä)": [
+    "jou"
+  ],
+  "hän (naisesta)": [
+    "joi"
+  ],
+  "hänen": [
+    "lakkiro"
+  ],
+  "hänen (naisesta)": [
+    "leskiiro",
+    "lesko"
+  ],
+  "häntä": [
+    "poori"
+  ],
+  "häntäremmi": [
+    "džöröla"
+  ],
+  "häpeä": [
+    "lans"
+  ],
+  "häpeällinen": [
+    "bilansvado"
+  ],
+  "häpeämätön": [
+    "bilansiboskiiro",
+    "lansvado"
+  ],
+  "häpy": [
+    "buidarissa"
+  ],
+  "härkä": [
+    "oksos"
+  ],
+  "hätä": [
+    "nyöda"
+  ],
+  "hätääntyä": [
+    "hiidruvaa",
+    "iinuvaa"
+  ],
+  "häveliäs": [
+    "lansalo",
+    "lansano",
+    "lansvitiko"
+  ],
+  "hävettävä": [
+    "lansano"
+  ],
+  "hävetä": [
+    "lansavaa"
+  ],
+  "hävittää": [
+    "naȟavaa"
+  ],
+  "hävitä": [
+    "naȟuvaa"
+  ],
+  "hävytön": [
+    "lansvalo",
+    "lansvardo",
+    "bilansimen"
+  ],
+  "häät": [
+    "bjau"
+  ],
+  "höllentää": [
+    "phutravaa"
+  ],
+  "höllä": [
+    "phutro"
+  ],
+  "hölmö": [
+    "molano"
+  ],
+  "höperö": [
+    "dilluno",
+    "fullitiko"
+  ],
+  "höyhen": [
+    "poor"
+  ]
+}

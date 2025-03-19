@@ -1,4 +1,6 @@
+import React from 'react';
 import { useState, useEffect } from 'react'
+import { FixedSizeList, ListChildComponentProps } from 'react-window';
 import { AppBar, Toolbar, Typography, Switch, Container, Autocomplete, TextField, Box } from '@mui/material'
 import './App.css'
 
@@ -53,6 +55,40 @@ function App() {
                     : { label: entry.romani, translation: entry.finnish }
   ).sort((a, b) => a.label.localeCompare(b.label));
   
+  const LISTBOX_PADDING = 8; // padding added top/bottom
+
+  function renderRow(props: ListChildComponentProps) {
+    const { data, index, style } = props;
+    return React.cloneElement(data[index] as React.ReactElement, {
+      style: {
+        ...style,
+        top: (style.top as number) + LISTBOX_PADDING,
+      },
+    });
+  }
+
+  const VirtualizedListbox = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLElement>>(
+    function VirtualizedListbox(props, ref) {
+      const { children, ...other } = props;
+      const itemData = React.Children.toArray(children);
+      const itemCount = itemData.length;
+      const height = Math.min(8, itemCount) * 48; // each item is assumed to be ~48px tall
+
+      return (
+        <div ref={ref} {...other}>
+          <FixedSizeList
+            height={height + 2 * LISTBOX_PADDING}
+            width="100%"
+            itemSize={48}
+            itemCount={itemCount}
+            itemData={itemData}
+          >
+            {renderRow}
+          </FixedSizeList>
+        </div>
+      );
+    }
+  );
   return (
     <>
       <AppBar position="static">
@@ -69,7 +105,8 @@ function App() {
         <Switch checked={!isFinnishSearch} onChange={handleToggle} />
       </Box>
       <Container maxWidth="sm" sx={{ mt: 5 }}>
-        <Autocomplete 
+        <Autocomplete
+          ListboxComponent={VirtualizedListbox}
           options={options}
           getOptionLabel={(option) => option.label}
           filterOptions={(opts, { inputValue }) => {

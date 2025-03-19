@@ -1,0 +1,384 @@
+{
+  "edelle": [
+    "naal"
+  ],
+  "edellinen": [
+    "paaluno",
+    "gnaaluno"
+  ],
+  "edeltä": [
+    "naalal",
+    "angnaal"
+  ],
+  "edeltäjä": [
+    "naalboskiiro"
+  ],
+  "edeltävä": [
+    "paaluno"
+  ],
+  "edempänä": [
+    "naalide"
+  ],
+  "edessä": [
+    "angle",
+    "andre",
+    "naal"
+  ],
+  "edestä": [
+    "naalal",
+    "naales"
+  ],
+  "edestäpäin": [
+    "angnaal"
+  ],
+  "edesvastuu": [
+    "naalsvaariba"
+  ],
+  "edullinen": [
+    "tšenstavitiko"
+  ],
+  "ehdokas": [
+    "alsimen"
+  ],
+  "ehdottaa": [
+    "alsavaa"
+  ],
+  "ehdotus": [
+    "alsiba"
+  ],
+  "ehjä": [
+    "seelo"
+  ],
+  "ehkä": [
+    "kai",
+    "fani"
+  ],
+  "ehtiä": [
+    "hinnavaa"
+  ],
+  "ehtoollinen": [
+    "nooda",
+    "kvellakiiro"
+  ],
+  "ei": [
+    "na",
+    "naa",
+    "naa na"
+  ],
+  "ei - eikä": [
+    "ne",
+    "ne - ne",
+    "ni",
+    "ni - ni"
+  ],
+  "ei kukaan": [
+    "tšek"
+  ],
+  "ei missään": [
+    "tšeeni"
+  ],
+  "ei mitään": [
+    "tši",
+    "tšitši"
+  ],
+  "ei ole": [
+    "naasti"
+  ],
+  "ei ollut": [
+    "naas"
+  ],
+  "ei-romani": [
+    "gaajo"
+  ],
+  "ei-romanityttö": [
+    "rakli"
+  ],
+  "eilen": [
+    "kalikos"
+  ],
+  "eilinen": [
+    "kvelluno",
+    "kalikuno"
+  ],
+  "eilis-": [
+    "kalikuno"
+  ],
+  "eksyä": [
+    "vilduvaa"
+  ],
+  "elanto": [
+    "dživiba"
+  ],
+  "elatus": [
+    "dživiba"
+  ],
+  "elinkautinen": [
+    "alsindaagiboskiiro",
+    "alsindaagino",
+    "džimnaskiiro",
+    "alsindaag",
+    "alsindaag"
+  ],
+  "eliö": [
+    "beedi"
+  ],
+  "elo": [
+    "gruuta"
+  ],
+  "elpyä": [
+    "džiiduvaa"
+  ],
+  "elähtyä": [
+    "džiiduvaa"
+  ],
+  "eläimen harja": [
+    "maan"
+  ],
+  "eläin": [
+    "kreatuuros",
+    "kriatuuros"
+  ],
+  "eläke": [
+    "dživiba"
+  ],
+  "eläminen": [
+    "džiiviba"
+  ],
+  "elämä": [
+    "džiiviba",
+    "dživiba",
+    "džiiben"
+  ],
+  "elättää": [
+    "dživavaa"
+  ],
+  "elävä": [
+    "džidado",
+    "džiido",
+    "dživalo"
+  ],
+  "elää": [
+    "džiivaa"
+  ],
+  "emakko": [
+    "baliȟni",
+    "balitši",
+    "baltši"
+  ],
+  "emäntä": [
+    "sessi",
+    "siivi",
+    "gaasi"
+  ],
+  "enemmän": [
+    "buutide"
+  ],
+  "enkeli": [
+    "englos"
+  ],
+  "ennemmin": [
+    "naalide"
+  ],
+  "ennen": [
+    "sigide",
+    "naal",
+    "naali"
+  ],
+  "ennustaja": [
+    "aaviboskero"
+  ],
+  "eno": [
+    "kak"
+  ],
+  "ensi-": [
+    "gnaaluno"
+  ],
+  "ensimmäinen": [
+    "angluno"
+  ],
+  "ensimmäiseksi": [
+    "vaagunes"
+  ],
+  "ensin": [
+    "vaagos",
+    "vangong"
+  ],
+  "entä": [
+    "arta"
+  ],
+  "enää": [
+    "butte"
+  ],
+  "epä-": [
+    "bi-"
+  ],
+  "epäilevä": [
+    "bipassiboskiiro"
+  ],
+  "epäilijä": [
+    "grunniboskiiro"
+  ],
+  "epäillä": [
+    "grunnavaa"
+  ],
+  "epäily": [
+    "grunniba"
+  ],
+  "epäinhimillinen": [
+    "bikomuneskaano"
+  ],
+  "epäjärjestys": [
+    "bistelliba"
+  ],
+  "epäoikeudenmukainen": [
+    "bitšatšiboskiiro"
+  ],
+  "epäoikeutettu": [
+    "biuutiboskiiro"
+  ],
+  "epäonni": [
+    "bibaȟt"
+  ],
+  "epäonninen": [
+    "bibaȟtalo"
+  ],
+  "epäpuhdas": [
+    "bidžuuso"
+  ],
+  "epärehellinen": [
+    "bitšatšiboskiiro",
+    "bitšatšuno"
+  ],
+  "epäsiveellinen mies": [
+    "lubikaano"
+  ],
+  "epäterve": [
+    "bisasto"
+  ],
+  "epätosi": [
+    "bitšatšo"
+  ],
+  "epäusko": [
+    "bipassiba"
+  ],
+  "epäuskoinen": [
+    "bipassiboskiiro"
+  ],
+  "erehdys": [
+    "dilliba",
+    "dumniba"
+  ],
+  "erehtyä": [
+    "fieluvaa"
+  ],
+  "erheellinen": [
+    "fielavitiko"
+  ],
+  "eri": [
+    "froo"
+  ],
+  "erikoislaatuinen": [
+    "frooȟlaaga"
+  ],
+  "erilainen": [
+    "frooȟlaaga"
+  ],
+  "erinomainen": [
+    "froo"
+  ],
+  "erkaantua": [
+    "froojuvaa"
+  ],
+  "ero": [
+    "froojiba"
+  ],
+  "erota": [
+    "froojuvaa",
+    "risuvaa"
+  ],
+  "erotettu": [
+    "froojimen"
+  ],
+  "erottaa": [
+    "phutrado",
+    "froojavaa",
+    "phutravaa"
+  ],
+  "erottaja": [
+    "froojiboskiiro"
+  ],
+  "erottelu": [
+    "froojiba"
+  ],
+  "eräs": [
+    "iek"
+  ],
+  "esi-": [
+    "naaluno"
+  ],
+  "esiliina": [
+    "tavartiina"
+  ],
+  "esimies": [
+    "praaluno",
+    "faldakiiro"
+  ],
+  "esittää": [
+    "sikavaa"
+  ],
+  "esitys": [
+    "sikiba"
+  ],
+  "este": [
+    "stanna"
+  ],
+  "esteetön": [
+    "biniekiboskiiro",
+    "biniekimen"
+  ],
+  "estämätön": [
+    "biniekiboskiiro",
+    "biniekimen"
+  ],
+  "eteen": [
+    "angle",
+    "angle",
+    "naal"
+  ],
+  "eteenpäin": [
+    "fram"
+  ],
+  "eteinen": [
+    "tremmos"
+  ],
+  "etinen": [
+    "panjalo"
+  ],
+  "etsijä": [
+    "roodiboskiiro"
+  ],
+  "etsintä": [
+    "roodiba"
+  ],
+  "etsiä": [
+    "roodaa"
+  ],
+  "että": [
+    "at",
+    "ke"
+  ],
+  "etummainen": [
+    "angluno",
+    "naalo",
+    "naaluno"
+  ],
+  "etäisyys": [
+    "duurjiba"
+  ],
+  "etäällä": [
+    "duural"
+  ],
+  "evankeliumi": [
+    "evankelium"
+  ]
+}

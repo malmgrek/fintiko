@@ -1,0 +1,940 @@
+{
+  "laahus": [
+    "ȟliepa"
+  ],
+  "laakso": [
+    "felda"
+  ],
+  "laaksoinen": [
+    "feldavitiko"
+  ],
+  "laatikko": [
+    "looda",
+    "moȟto",
+    "moȟton"
+  ],
+  "laatu": [
+    "ȟlaaga"
+  ],
+  "ladata": [
+    "landavaa"
+  ],
+  "lahja": [
+    "nis"
+  ],
+  "lahjoittaa": [
+    "ȟenkkavaa"
+  ],
+  "lahna": [
+    "brasmos"
+  ],
+  "lahottaa": [
+    "ȟemmavaa"
+  ],
+  "lahti": [
+    "lantos"
+  ],
+  "laiha": [
+    "ȟukko",
+    "saano"
+  ],
+  "laihduttaa": [
+    "saanjavaa"
+  ],
+  "laihdutus": [
+    "saanjiba"
+  ],
+  "laiho": [
+    "halmos"
+  ],
+  "laihtua": [
+    "saanjuvaa"
+  ],
+  "laillinen": [
+    "laagakiiro"
+  ],
+  "laina": [
+    "loona",
+    "tilooniba"
+  ],
+  "lainaaja": [
+    "looniboskiiro"
+  ],
+  "lainata": [
+    "tiloonavaa",
+    "loonavaa"
+  ],
+  "lainkaan": [
+    "ienkong"
+  ],
+  "laiska": [
+    "troomo",
+    "laato"
+  ],
+  "laiskasti": [
+    "laates"
+  ],
+  "laiskistaa": [
+    "troomavaa"
+  ],
+  "laiskistua": [
+    "laatuvaa",
+    "troomuvaa"
+  ],
+  "laiskuus": [
+    "troomiba"
+  ],
+  "laite": [
+    "kouvo"
+  ],
+  "laiton": [
+    "bilaagakiiro"
+  ],
+  "laittaa": [
+    "tšuuvaa",
+    "laagavaa"
+  ],
+  "laittautua": [
+    "fäärduvaa"
+  ],
+  "laittomuus": [
+    "bihorttiba"
+  ],
+  "laiva": [
+    "beero"
+  ],
+  "lakaista": [
+    "ȟulavaa"
+  ],
+  "lakana": [
+    "fliika"
+  ],
+  "laki": [
+    "laaga"
+  ],
+  "lakia noudattamaton": [
+    "bilaagakiiro"
+  ],
+  "lakkaamaton": [
+    "aldriboskiiro",
+    "bistagguvitiko"
+  ],
+  "lakkauttaa": [
+    "stangavaa"
+  ],
+  "lakki": [
+    "staadi"
+  ],
+  "lammas": [
+    "bakro"
+  ],
+  "lammas-": [
+    "bakrano"
+  ],
+  "lammasmainen": [
+    "bakrano",
+    "bakravitiko"
+  ],
+  "lampaan-": [
+    "bakrano"
+  ],
+  "lampi": [
+    "leen"
+  ],
+  "lamppu": [
+    "lampa",
+    "jangakiiro"
+  ],
+  "lampuoti": [
+    "lambuodos"
+  ],
+  "lankakerä": [
+    "thau"
+  ],
+  "lanko": [
+    "svoogaris"
+  ],
+  "lanta": [
+    "dyngos"
+  ],
+  "lantainen": [
+    "ȟinjalo"
+  ],
+  "lantio": [
+    "phossin"
+  ],
+  "lanttu": [
+    "rendlikos",
+    "baalengiiro",
+    "paalengiiro"
+  ],
+  "lapaantua": [
+    "spaalavaa"
+  ],
+  "lapanen": [
+    "forsa"
+  ],
+  "lapio": [
+    "sifla"
+  ],
+  "lapsellinen": [
+    "kentavitiko",
+    "putšimen"
+  ],
+  "lapsi": [
+    "kentos",
+    "kleppos",
+    "valapos"
+  ],
+  "lasi": [
+    "glaasos",
+    "vaali"
+  ],
+  "laskea": [
+    "teeljuvaa",
+    "tšuuvaa",
+    "drabavaa",
+    "phiravaa",
+    "teeljavaa",
+    "džinnaa",
+    "mekkaa",
+    "mukkaa"
+  ],
+  "laskelma": [
+    "reekniba"
+  ],
+  "laskeminen": [
+    "džinniba",
+    "reekniba"
+  ],
+  "laskettu": [
+    "džinnimen"
+  ],
+  "laskija": [
+    "džinniboskero"
+  ],
+  "lasku": [
+    "reekniba"
+  ],
+  "lastata": [
+    "ladavaa"
+  ],
+  "lastu": [
+    "spoona"
+  ],
+  "lato": [
+    "ȟuorna"
+  ],
+  "latoa": [
+    "ladavaa"
+  ],
+  "lattia": [
+    "gulva"
+  ],
+  "latu": [
+    "beri"
+  ],
+  "lauantai": [
+    "lyörda"
+  ],
+  "lauhkeahko": [
+    "biȟooljakkiro"
+  ],
+  "laukku": [
+    "fäska",
+    "malaȟa"
+  ],
+  "laulaa": [
+    "džambaa"
+  ],
+  "laulaja": [
+    "džambiboskiiro"
+  ],
+  "laulaminen": [
+    "džambiba"
+  ],
+  "laulu": [
+    "džambiba",
+    "džiili"
+  ],
+  "lausua": [
+    "phennaa"
+  ],
+  "lauta": [
+    "breeda",
+    "phaal"
+  ],
+  "lautamies": [
+    "phajakiiro"
+  ],
+  "lautanen": [
+    "transuris",
+    "tšaaro"
+  ],
+  "lavaltaa": [
+    "dööpavaa"
+  ],
+  "laverrella": [
+    "voloȟkavaa"
+  ],
+  "lehmä": [
+    "guruvalo",
+    "gurni"
+  ],
+  "lehmä-": [
+    "gurvano"
+  ],
+  "lehti": [
+    "patrik"
+  ],
+  "leikata": [
+    "klippavaa",
+    "tšinnaa",
+    "tšollaa"
+  ],
+  "leikinlaskija": [
+    "phersiboskero"
+  ],
+  "leikkaaja": [
+    "liijiboskiiro"
+  ],
+  "leikkaus": [
+    "tšolliba"
+  ],
+  "leikki": [
+    "phersiba",
+    "pherjas"
+  ],
+  "leikkisä": [
+    "pherjaluuno",
+    "phersikuuno"
+  ],
+  "leikkiä": [
+    "fendavaa"
+  ],
+  "leikkuu": [
+    "kakjiba"
+  ],
+  "leipoa": [
+    "baakavaa"
+  ],
+  "leipomo": [
+    "baakiboskiiro"
+  ],
+  "leipuri": [
+    "baakiboskiiro",
+    "maareskiiro"
+  ],
+  "leipä": [
+    "brootos",
+    "maaro"
+  ],
+  "leiri": [
+    "troppa"
+  ],
+  "leivänmuru": [
+    "ȟummer"
+  ],
+  "lellitty": [
+    "butšimen"
+  ],
+  "leninki": [
+    "bajingiiro"
+  ],
+  "lentää": [
+    "lendavaa"
+  ],
+  "lepo": [
+    "paȟiba"
+  ],
+  "lepoaika": [
+    "hylitiija"
+  ],
+  "leppoisa": [
+    "bidžil"
+  ],
+  "leppymätön": [
+    "bibyönakiro"
+  ],
+  "leppyä": [
+    "byönuvaa"
+  ],
+  "lepä": [
+    "ȟamnaskiiro"
+  ],
+  "leski(vaimo)": [
+    "phyyli"
+  ],
+  "leskimies": [
+    "phyylo"
+  ],
+  "lesti": [
+    "leista"
+  ],
+  "lettu": [
+    "pekkiba"
+  ],
+  "leuka": [
+    "bavunis",
+    "pavunis",
+    "tšefta"
+  ],
+  "leventää": [
+    "boȟlavaa"
+  ],
+  "leveys": [
+    "boȟliba"
+  ],
+  "leveä": [
+    "boȟlo"
+  ],
+  "levittää": [
+    "boȟlavaa"
+  ],
+  "levällään": [
+    "phirro"
+  ],
+  "levännyt": [
+    "hyylimen"
+  ],
+  "levätä": [
+    "paȟuvaa",
+    "hyylavaa"
+  ],
+  "liata": [
+    "džungavaa",
+    "meeljavaa",
+    "mejavaa",
+    "tšikjalvaa"
+  ],
+  "liekki": [
+    "flamma"
+  ],
+  "lieve": [
+    "bossa",
+    "poddža",
+    "ponsa"
+  ],
+  "liha": [
+    "mas"
+  ],
+  "lihakauppias": [
+    "masseskiiro"
+  ],
+  "lihallinen": [
+    "massavitiko"
+  ],
+  "lihava": [
+    "masvalo",
+    "phesso",
+    "thuulo"
+  ],
+  "lihoa": [
+    "ȟujuvaa",
+    "phesjuvaa",
+    "phessuvaa",
+    "thujuvaa",
+    "thujavaa"
+  ],
+  "lihottaa": [
+    "ȟujavaa",
+    "phesjavaa",
+    "phessavaa"
+  ],
+  "lihottaaa": [
+    "thujavaa"
+  ],
+  "liiallinen": [
+    "perdalno"
+  ],
+  "liiallisesti": [
+    "perdaldosta"
+  ],
+  "liian": [
+    "perdaldosta"
+  ],
+  "liikanimi": [
+    "tilnau"
+  ],
+  "liike": [
+    "huusa"
+  ],
+  "liikuttaa": [
+    "tšalavaa",
+    "tšaljavaa"
+  ],
+  "liima": [
+    "liima"
+  ],
+  "liimainen": [
+    "liimavitiko"
+  ],
+  "liina": [
+    "diklo",
+    "poȟtan"
+  ],
+  "liite": [
+    "tiljiba"
+  ],
+  "liiteri": [
+    "liira"
+  ],
+  "liitto": [
+    "sankiba"
+  ],
+  "liittyä": [
+    "sankuvaa"
+  ],
+  "liittää": [
+    "sankavaa"
+  ],
+  "liitu": [
+    "kliita"
+  ],
+  "liitumainen": [
+    "kliitavitiko"
+  ],
+  "liivi": [
+    "vestos"
+  ],
+  "liivit": [
+    "dummeskiiro"
+  ],
+  "lika": [
+    "fuul",
+    "meel",
+    "tšik",
+    "džungiba"
+  ],
+  "likaaminen": [
+    "tšikjilba"
+  ],
+  "likaantua": [
+    "tšikjulvaa"
+  ],
+  "likainen": [
+    "bidžuuso",
+    "džungalo",
+    "mejalo",
+    "tšikkalo"
+  ],
+  "likaisesti": [
+    "mejales"
+  ],
+  "linna": [
+    "flotta",
+    "ȟlotta",
+    "naverborja",
+    "slotta"
+  ],
+  "lintu": [
+    "tširiklo",
+    "tširikli"
+  ],
+  "liottaa": [
+    "panjavaa"
+  ],
+  "lipeä": [
+    "lugga",
+    "lunga"
+  ],
+  "lippu": [
+    "flaaga",
+    "fleega"
+  ],
+  "lista": [
+    "listos"
+  ],
+  "listoittaa": [
+    "listavaa"
+  ],
+  "lisänimi": [
+    "tilnau"
+  ],
+  "lisätä": [
+    "tiljavaa"
+  ],
+  "lisää": [
+    "til"
+  ],
+  "lisääminen": [
+    "tiljiba"
+  ],
+  "litistetty": [
+    "flaatimen"
+  ],
+  "litistää": [
+    "flaatavaa",
+    "stötjavaa"
+  ],
+  "litra": [
+    "pera",
+    "spera"
+  ],
+  "litteys": [
+    "flaatiba"
+  ],
+  "litteä": [
+    "flaat",
+    "stöt"
+  ],
+  "litteästi": [
+    "flaates"
+  ],
+  "liu´uttaa": [
+    "glattavaa"
+  ],
+  "liukas": [
+    "glattiko"
+  ],
+  "liukastua": [
+    "glattuvaa"
+  ],
+  "liukkaasti": [
+    "glattikes"
+  ],
+  "liukkaus": [
+    "glattiba"
+  ],
+  "loata": [
+    "tšikjalvaa"
+  ],
+  "lohdullisesti": [
+    "dristimes"
+  ],
+  "lohduttaa": [
+    "dristavaa",
+    "trystavaa"
+  ],
+  "lohduttaja": [
+    "dristiboskiiro",
+    "trystiboskiiro"
+  ],
+  "lohduttaminen": [
+    "dristiba"
+  ],
+  "lohduttavainen": [
+    "dristiboskiereskiiro"
+  ],
+  "lohduttavasti": [
+    "dristiboskiires",
+    "dristimes"
+  ],
+  "lohdutus": [
+    "dristiba",
+    "trystiba"
+  ],
+  "lohtu": [
+    "dristiba",
+    "trystiba"
+  ],
+  "loihtia": [
+    "lokravaa"
+  ],
+  "loimi": [
+    "tšereȟa"
+  ],
+  "loistaa": [
+    "glimmuvaa"
+  ],
+  "loiste": [
+    "glimmiba"
+  ],
+  "loisto": [
+    "häärni"
+  ],
+  "loitolla": [
+    "duural"
+  ],
+  "loitsia": [
+    "džumavaa"
+  ],
+  "loitsija": [
+    "džumiboskiiro"
+  ],
+  "lonkka": [
+    "ronka",
+    "phossin"
+  ],
+  "lopettaa": [
+    "ȟluutavaa"
+  ],
+  "loppu": [
+    "ennos",
+    "ȟluuta",
+    "ȟluutiba",
+    "agor",
+    "ȟluut"
+  ],
+  "loppua": [
+    "agurvaa"
+  ],
+  "lopussa": [
+    "uut"
+  ],
+  "lude": [
+    "vegeluusos",
+    "vantingiiro"
+  ],
+  "luihu": [
+    "ȟluug"
+  ],
+  "lujaa": [
+    "drouves"
+  ],
+  "lujasti": [
+    "džorales"
+  ],
+  "lukea": [
+    "drabavaa"
+  ],
+  "lukeminen": [
+    "drabiba"
+  ],
+  "lukenut": [
+    "drabadiilo"
+  ],
+  "lukija": [
+    "drabiboskiiro"
+  ],
+  "lukita": [
+    "buklavaa"
+  ],
+  "lukitseminen": [
+    "bukliba"
+  ],
+  "lukitsija": [
+    "bukliboskero"
+  ],
+  "lukkari": [
+    "klokkaris"
+  ],
+  "lukko": [
+    "buklos",
+    "buklo"
+  ],
+  "luku": [
+    "drabiba",
+    "džin"
+  ],
+  "lumi": [
+    "jiu"
+  ],
+  "lumimyrsky": [
+    "flagga"
+  ],
+  "luo": [
+    "kai"
+  ],
+  "luo(kse)": [
+    "neer",
+    "neer",
+    "neere"
+  ],
+  "luokki": [
+    "bangalo",
+    "dummeskiiro"
+  ],
+  "luona": [
+    "neere",
+    "paȟal"
+  ],
+  "luonne": [
+    "tenki"
+  ],
+  "luopua": [
+    "putruvaa"
+  ],
+  "luota": [
+    "kaijal",
+    "paȟal"
+  ],
+  "luoti": [
+    "bikkos",
+    "haaglo"
+  ],
+  "lupa": [
+    "loviba"
+  ],
+  "lupaus": [
+    "loviba"
+  ],
+  "lurjusmainen": [
+    "džuklano"
+  ],
+  "lurjusmaisesti": [
+    "džuklanes",
+    "džuklevitikas"
+  ],
+  "lusikka": [
+    "roi"
+  ],
+  "luu": [
+    "kokalos",
+    "pokalos"
+  ],
+  "luuranko": [
+    "paȟvaro"
+  ],
+  "luuta": [
+    "ȟuliboskiiro"
+  ],
+  "luvallinen": [
+    "lovakiiro"
+  ],
+  "luvata": [
+    "lovavaa"
+  ],
+  "luvaton": [
+    "bilovakiiro",
+    "biloviboskiiro",
+    "bilovimen"
+  ],
+  "lyhentää": [
+    "stötjavaa",
+    "stöttavaa"
+  ],
+  "lyhetä": [
+    "stötjuvaa"
+  ],
+  "lyhyt": [
+    "stöt"
+  ],
+  "lyijy": [
+    "blyija",
+    "blyys"
+  ],
+  "lyijyinen": [
+    "blyyvitiko",
+    "molvurvitiko"
+  ],
+  "lypsetty": [
+    "doȟlo",
+    "doȟȟimen"
+  ],
+  "lypsy": [
+    "doȟȟiba"
+  ],
+  "lypsäjä": [
+    "doȟȟiboskiiri"
+  ],
+  "lypsää": [
+    "doȟȟaa"
+  ],
+  "lyödä": [
+    "maravaa"
+  ],
+  "lyönti": [
+    "famna"
+  ],
+  "lähde": [
+    "navasiina"
+  ],
+  "lähelle": [
+    "neer",
+    "neer",
+    "neere"
+  ],
+  "lähellä": [
+    "neer",
+    "neer",
+    "neere",
+    "paȟal"
+  ],
+  "läheltä": [
+    "paȟal"
+  ],
+  "lähemmäksi": [
+    "neerdide",
+    "neerdide"
+  ],
+  "lähemmäs": [
+    "neerdide",
+    "neerdide"
+  ],
+  "lähentää": [
+    "neerjavaa"
+  ],
+  "lähestyä": [
+    "neerjuvaa"
+  ],
+  "lähettää": [
+    "biȟavaa",
+    "ȟikkavaa",
+    "laagavaa"
+  ],
+  "lähetys": [
+    "biȟiba"
+  ],
+  "lähimmäinen": [
+    "neera",
+    "paȟaluuno"
+  ],
+  "läjä": [
+    "plaaga"
+  ],
+  "lämmetä": [
+    "tassuvaa"
+  ],
+  "lämmin": [
+    "tatto"
+  ],
+  "lämmitellä": [
+    "tassuvaa"
+  ],
+  "lämmittäjä": [
+    "tassiboskero"
+  ],
+  "lämmittää": [
+    "tassavaa"
+  ],
+  "lämmitys": [
+    "tassiba",
+    "tattiba"
+  ],
+  "lämpö": [
+    "tattiba"
+  ],
+  "länget": [
+    "bangalja"
+  ],
+  "länki": [
+    "meenengiiro"
+  ],
+  "läpi": [
+    "dženom",
+    "džinom"
+  ],
+  "lääke": [
+    "makkiba",
+    "dramb"
+  ],
+  "lääkitsijä": [
+    "drambeskiiro"
+  ],
+  "lääkitä": [
+    "drambjavaa"
+  ],
+  "lääkäri": [
+    "doȟtoris",
+    "makkiboskiiro",
+    "sasjiboskiiro",
+    "doȟtor"
+  ],
+  "lörpötellä": [
+    "praatavaa"
+  ],
+  "lörpöttelijä": [
+    "praataris"
+  ],
+  "lörpöttely": [
+    "praatiba"
+  ],
+  "löystyä": [
+    "phutruvaa"
+  ],
+  "löytää": [
+    "laȟȟaa",
+    "latšaa"
+  ]
+}

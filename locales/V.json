@@ -1,0 +1,1088 @@
+{
+  "vaahto": [
+    "franga"
+  ],
+  "vaaka": [
+    "veegos",
+    "bismiboskero",
+    "bismos"
+  ],
+  "vaalea": [
+    "parno"
+  ],
+  "vaaleneminen": [
+    "parjiba"
+  ],
+  "vaalentaa": [
+    "bleekavaa"
+  ],
+  "vaaleta": [
+    "bleekuvaa",
+    "parjuvaa"
+  ],
+  "vaaleus": [
+    "parjiba",
+    "parniba"
+  ],
+  "vaali": [
+    "velekiba"
+  ],
+  "vaan": [
+    "bi"
+  ],
+  "vaara": [
+    "faarliba"
+  ],
+  "vaarallinen": [
+    "manuȟvaro",
+    "faarligo",
+    "manuȟvaro"
+  ],
+  "vaarallisesti": [
+    "faarliges"
+  ],
+  "vaaraton": [
+    "biskaadiboskiiro",
+    "bifaarligo"
+  ],
+  "vaate": [
+    "than"
+  ],
+  "vaatia": [
+    "postuvaa",
+    "kutjavaa"
+  ],
+  "vaatteet": [
+    "koola"
+  ],
+  "vaeltaa": [
+    "vandruvaa"
+  ],
+  "vaeltaja": [
+    "džamnaskiiro",
+    "stamnaskiiro"
+  ],
+  "vahingoittua": [
+    "fieluvaa"
+  ],
+  "vahinko": [
+    "skaada",
+    "skoda"
+  ],
+  "vahtia": [
+    "vallavaa"
+  ],
+  "vahva": [
+    "džoralo",
+    "tšerko",
+    "friȟko"
+  ],
+  "vahvistaa": [
+    "džorjalvaa"
+  ],
+  "vahvistaminen": [
+    "džorjilba"
+  ],
+  "vahviste": [
+    "džorjilba"
+  ],
+  "vahvistua": [
+    "džorjulvaa"
+  ],
+  "vahvistus": [
+    "džorjilba"
+  ],
+  "vahvuus": [
+    "džoorilba"
+  ],
+  "vai": [
+    "elle"
+  ],
+  "vaihtaa": [
+    "paruvaa"
+  ],
+  "vaihtaja": [
+    "pariboskiiro"
+  ],
+  "vaihto": [
+    "pariba"
+  ],
+  "vaikea": [
+    "bilokko"
+  ],
+  "vaikka": [
+    "vaȟ",
+    "vaȟȟa",
+    "vaȟka"
+  ],
+  "vailla": [
+    "fot"
+  ],
+  "vaimo": [
+    "džuuli"
+  ],
+  "vain": [
+    "bi",
+    "innasto"
+  ],
+  "vainota": [
+    "aagavaa"
+  ],
+  "vaiva": [
+    "saakniba"
+  ],
+  "vaivaaminen": [
+    "förbyytiba"
+  ],
+  "vaivata": [
+    "förbyytavaa",
+    "saaknavaa"
+  ],
+  "vaivautua": [
+    "förbyytuvaa"
+  ],
+  "vaja": [
+    "buoda"
+  ],
+  "vakaa": [
+    "bikamliboskiiro",
+    "bikamlimen"
+  ],
+  "vakava": [
+    "druuvalo"
+  ],
+  "vakka": [
+    "ȟippi"
+  ],
+  "vala": [
+    "sambuota",
+    "solȟiba",
+    "solȟirba",
+    "souver"
+  ],
+  "valaehtoinen": [
+    "sambuotimen"
+  ],
+  "valallinen": [
+    "sambuotimen"
+  ],
+  "valaton": [
+    "bisambuotino"
+  ],
+  "valehdella": [
+    "ȟoȟavaa"
+  ],
+  "valehtelija": [
+    "ȟoȟiboskiiro"
+  ],
+  "valhe": [
+    "ȟoȟilba",
+    "ȟoȟiba"
+  ],
+  "valheellinen": [
+    "bitšatšuno",
+    "ȟoȟano"
+  ],
+  "valinta": [
+    "velekiba"
+  ],
+  "valita": [
+    "velekavaa"
+  ],
+  "valittaa": [
+    "honnavaa",
+    "klaagavaa",
+    "phukavaa",
+    "saaknavaa"
+  ],
+  "valittaja": [
+    "honniboskiiro",
+    "klaagiboskero"
+  ],
+  "valittaminen": [
+    "klaagiba"
+  ],
+  "valitus": [
+    "saakniba",
+    "bisveeringa"
+  ],
+  "valjaat": [
+    "strykka",
+    "värki"
+  ],
+  "valjastaa": [
+    "naaljavaa"
+  ],
+  "valjastaja": [
+    "naaliboskiiro",
+    "naaljiboskiiro"
+  ],
+  "valjastaminen": [
+    "naaliba",
+    "naaljiba",
+    "naaltönniba"
+  ],
+  "valjastettu": [
+    "naaljimen"
+  ],
+  "valkeus": [
+    "parniba"
+  ],
+  "valkoinen": [
+    "parno"
+  ],
+  "vallaton": [
+    "bidžimen"
+  ],
+  "valli": [
+    "valla"
+  ],
+  "valmis": [
+    "fäärdigo",
+    "fäärdi"
+  ],
+  "valmistaa": [
+    "fäärdavaa",
+    "fäärjavaa",
+    "laagavaa"
+  ],
+  "valmistaja": [
+    "fäärdiboskiiro"
+  ],
+  "valmistua": [
+    "fäärduvaa"
+  ],
+  "valo": [
+    "juuri",
+    "jang"
+  ],
+  "valokuva": [
+    "faraba"
+  ],
+  "valpas": [
+    "džangalo"
+  ],
+  "valta": [
+    "falda",
+    "volla"
+  ],
+  "valtaistuin": [
+    "kruuna"
+  ],
+  "valtakunta": [
+    "volla"
+  ],
+  "valtio": [
+    "kruuna",
+    "them"
+  ],
+  "vanginvartija": [
+    "kniȟtos",
+    "stardengiiro"
+  ],
+  "vangita": [
+    "fangavaa",
+    "phannaa",
+    "stillaa"
+  ],
+  "vangitsematon": [
+    "bitaprimen"
+  ],
+  "vangitseminen": [
+    "fangiba",
+    "phanniba"
+  ],
+  "vangitsija": [
+    "phanniboskiiro"
+  ],
+  "vangittu": [
+    "sasterengiiro"
+  ],
+  "vanha": [
+    "phuuro",
+    "phurano"
+  ],
+  "vanhempi": [
+    "phurnide",
+    "phuranide"
+  ],
+  "vanhentua": [
+    "phurjuvaa"
+  ],
+  "vanheta": [
+    "phurjuvaa"
+  ],
+  "vanhus": [
+    "oldrakiiro",
+    "oldrakiiro",
+    "phuuro",
+    "phuraniba",
+    "phuuriba"
+  ],
+  "vanhuus": [
+    "phuurjiba"
+  ],
+  "vankeus": [
+    "phanniba"
+  ],
+  "vanki": [
+    "stardo"
+  ],
+  "vankila": [
+    "phanniba",
+    "fangiba",
+    "staariba",
+    "flotta",
+    "ȟlotta",
+    "slotta",
+    "naverborja"
+  ],
+  "vankilanjohtaja": [
+    "lugakiiro"
+  ],
+  "vannoa": [
+    "koȟȟavaa",
+    "sambuotavaa",
+    "solȟarvaa"
+  ],
+  "vannottu": [
+    "sambuotimen"
+  ],
+  "vapaaehtoinen": [
+    "bidraadimen"
+  ],
+  "vapaus": [
+    "phiriba"
+  ],
+  "vapauttaa": [
+    "mukkaa"
+  ],
+  "vapina": [
+    "derriba"
+  ],
+  "vapisija": [
+    "derriboskero",
+    "hiidriboskiiro"
+  ],
+  "vapista": [
+    "derruvaa",
+    "hiidruvaa"
+  ],
+  "varas": [
+    "tšoor",
+    "fattiboskiiro",
+    "jolkiboskiiro"
+  ],
+  "varastaa": [
+    "tšooraa",
+    "fattavaa",
+    "jolkavaa",
+    "stillaa"
+  ],
+  "varasteleva": [
+    "tšooraȟȟaano",
+    "tšoorikano"
+  ],
+  "varastettu": [
+    "fattimen"
+  ],
+  "varastohuone": [
+    "duitu"
+  ],
+  "varhain": [
+    "siigo",
+    "siigo"
+  ],
+  "varhainen": [
+    "siigo",
+    "siigo"
+  ],
+  "varjo": [
+    "svalako"
+  ],
+  "varjostaa": [
+    "svalakavaa"
+  ],
+  "varkaus": [
+    "tšooriba",
+    "jolkiba"
+  ],
+  "varmasti": [
+    "tšatšes"
+  ],
+  "varoittaa": [
+    "budavaa"
+  ],
+  "varoittaja": [
+    "budiboskero"
+  ],
+  "varoitus": [
+    "budiba"
+  ],
+  "varovainen": [
+    "džintakiiro"
+  ],
+  "varsa": [
+    "tšiplingos",
+    "tšyplingos"
+  ],
+  "varsi": [
+    "skaftos"
+  ],
+  "vartija": [
+    "dikkiboskiiro"
+  ],
+  "varvas": [
+    "varpos"
+  ],
+  "vasara": [
+    "hamros"
+  ],
+  "vasen": [
+    "džerevo"
+  ],
+  "vasikka": [
+    "kalvos",
+    "muskaris"
+  ],
+  "vasta": [
+    "anjiboskero",
+    "anniboskero"
+  ],
+  "vasta-alkaja": [
+    "byrjiboskiiro"
+  ],
+  "vastaan": [
+    "prissi"
+  ],
+  "vastaanotto": [
+    "prissiliiben"
+  ],
+  "vastata": [
+    "svaaravaa"
+  ],
+  "vastaus": [
+    "svaariba",
+    "svaaros",
+    "phenniba"
+  ],
+  "vasten": [
+    "priso"
+  ],
+  "vastusteleva": [
+    "prissavitiko"
+  ],
+  "vati": [
+    "skoolos",
+    "tšetla",
+    "tšaaro"
+  ],
+  "vatsa": [
+    "maaga",
+    "peer"
+  ],
+  "vatsavyö": [
+    "dingla"
+  ],
+  "vauvamainen": [
+    "putšimen"
+  ],
+  "vavista,tutista": [
+    "hiidruvaa"
+  ],
+  "vehnäinen": [
+    "svettiko"
+  ],
+  "vehnänen": [
+    "svettos"
+  ],
+  "veitsi": [
+    "tšuuri",
+    "tšuuri",
+    "tšollimaskero"
+  ],
+  "vekara": [
+    "kleppos"
+  ],
+  "vekotin": [
+    "beri"
+  ],
+  "velallinen": [
+    "uuȟlo"
+  ],
+  "veli": [
+    "phaal"
+  ],
+  "velka": [
+    "uuȟliba"
+  ],
+  "velkaantua": [
+    "uuȟluvaa"
+  ],
+  "velkainen": [
+    "uuȟlo",
+    "uuȟlo"
+  ],
+  "velli": [
+    "vellinga",
+    "saani"
+  ],
+  "vene": [
+    "skuuta"
+  ],
+  "venyttää": [
+    "strökkavaa"
+  ],
+  "venyä": [
+    "strökkyvaa"
+  ],
+  "venäläinen": [
+    "poringiiro",
+    "portiko"
+  ],
+  "verenvuoto": [
+    "ratšiba"
+  ],
+  "veretön": [
+    "biratvalo"
+  ],
+  "veri": [
+    "rat"
+  ],
+  "verinen": [
+    "ratvalo"
+  ],
+  "verka": [
+    "than"
+  ],
+  "verkko": [
+    "verkos"
+  ],
+  "verkkomainen": [
+    "verkavitiko"
+  ],
+  "vero": [
+    "presiba"
+  ],
+  "vertauksellinen": [
+    "farabavitiko"
+  ],
+  "vesi": [
+    "paani"
+  ],
+  "vetinen": [
+    "panjavitiko"
+  ],
+  "veto": [
+    "draagos",
+    "sterdiba",
+    "veos",
+    "veis",
+    "vesa"
+  ],
+  "vetää": [
+    "riitavaa",
+    "sterdaa"
+  ],
+  "viallinen": [
+    "fielavitiko"
+  ],
+  "viaton": [
+    "bidoȟjakiiro",
+    "bidoȟkiiro",
+    "uutaȟyl"
+  ],
+  "viedä": [
+    "rigavaa",
+    "igervaa"
+  ],
+  "viekas": [
+    "vieko",
+    "ȟluug"
+  ],
+  "viekkaus": [
+    "viekiba"
+  ],
+  "vielä": [
+    "panna"
+  ],
+  "vienti": [
+    "rigiba"
+  ],
+  "vieras": [
+    "fremdo",
+    "frendo"
+  ],
+  "viesti": [
+    "boodos"
+  ],
+  "viha": [
+    "ȟojiba",
+    "iiniba"
+  ],
+  "vihaaja": [
+    "iiniboskiiro"
+  ],
+  "vihainen": [
+    "džeskiro",
+    "ruȟto",
+    "džill"
+  ],
+  "vihastua": [
+    "ȟojuvaa"
+  ],
+  "vihastunut": [
+    "ȟojado",
+    "ȟojimen"
+  ],
+  "vihastus": [
+    "džilliba"
+  ],
+  "vihastuttaa": [
+    "ȟojavaa"
+  ],
+  "vihata": [
+    "iinavaa"
+  ],
+  "vihkiminen": [
+    "viijiba"
+  ],
+  "vihkiytyä": [
+    "viijuvaa"
+  ],
+  "vihkiä": [
+    "viijavaa"
+  ],
+  "vihoitella": [
+    "ȟojavaa"
+  ],
+  "vihollinen": [
+    "aulosmannos"
+  ],
+  "vihreä": [
+    "grönt",
+    "gröönt"
+  ],
+  "vihta": [
+    "anjiboskero",
+    "anniboskero"
+  ],
+  "vihtoa (saunassa)": [
+    "anjavaa"
+  ],
+  "viikate": [
+    "liija"
+  ],
+  "viikko": [
+    "kurko",
+    "kurukos",
+    "kurko"
+  ],
+  "viila": [
+    "ranniboskiiro"
+  ],
+  "viili": [
+    "bonka"
+  ],
+  "viime": [
+    "sisto"
+  ],
+  "viimeinen": [
+    "sisto"
+  ],
+  "viina": [
+    "tšerki"
+  ],
+  "viini": [
+    "mool"
+  ],
+  "viipyä": [
+    "viipuvaa",
+    "aaȟȟaa"
+  ],
+  "viisaampi": [
+    "fiinide"
+  ],
+  "viisas": [
+    "fiino"
+  ],
+  "viisasteleva": [
+    "fiiniboskiiro",
+    "fiinjiboskiiro"
+  ],
+  "viisastelija": [
+    "fiinovitiko"
+  ],
+  "viisastella": [
+    "fiinjavaa"
+  ],
+  "viisastua": [
+    "fiinuvaa"
+  ],
+  "viisastunut": [
+    "fiinjimen"
+  ],
+  "viisastuttaa": [
+    "fiinavaa"
+  ],
+  "viisaus": [
+    "fiiniba",
+    "fiinjiba"
+  ],
+  "viisi": [
+    "pangȟ"
+  ],
+  "viisikymmentä": [
+    "pangȟvardeh"
+  ],
+  "viisitoista": [
+    "deȟopangȟ"
+  ],
+  "viitsiä": [
+    "iisuvaa"
+  ],
+  "vika": [
+    "fiela",
+    "doȟ"
+  ],
+  "vilja": [
+    "halmos",
+    "gruuta"
+  ],
+  "viljelemätön": [
+    "bidžondiboskiiro"
+  ],
+  "viljelijä": [
+    "sondiboskiiro"
+  ],
+  "viljellä": [
+    "džonravaa",
+    "sondavaa"
+  ],
+  "vilkas": [
+    "kvikko"
+  ],
+  "villa": [
+    "džarali",
+    "vulla"
+  ],
+  "villainen": [
+    "džaravalo",
+    "vullatiko",
+    "vullitiko"
+  ],
+  "villakangas": [
+    "valmos"
+  ],
+  "villalanka": [
+    "poȟum"
+  ],
+  "villi": [
+    "bispaakiboskiiro",
+    "bispaako",
+    "ilvesoorakiiro",
+    "vildo"
+  ],
+  "vintti": [
+    "utši"
+  ],
+  "vioittaa": [
+    "fielavaa"
+  ],
+  "vioittua": [
+    "fieluvaa"
+  ],
+  "vireys": [
+    "yyriba"
+  ],
+  "vireä": [
+    "yyr"
+  ],
+  "virhe": [
+    "fiela",
+    "doȟ"
+  ],
+  "virheellinen": [
+    "fielavitiko"
+  ],
+  "virka": [
+    "tšensta"
+  ],
+  "virkamies": [
+    "staadingiiro",
+    "tšenstakiiro",
+    "vollakiiro"
+  ],
+  "virkistää": [
+    "näärjavaa"
+  ],
+  "virrata": [
+    "strömmavaa",
+    "prastaa"
+  ],
+  "virsta": [
+    "fierunga"
+  ],
+  "virta": [
+    "fossa",
+    "strömma"
+  ],
+  "virtsa": [
+    "mutter"
+  ],
+  "virvoittaa": [
+    "dživavaa"
+  ],
+  "visva": [
+    "phum"
+  ],
+  "vitsa": [
+    "raan"
+  ],
+  "vitsata": [
+    "musuvaa"
+  ],
+  "vlvoa": [
+    "vaaknavaa"
+  ],
+  "voi": [
+    "tšil"
+  ],
+  "voida": [
+    "voipuvaa",
+    "vojuvaa",
+    "hinnavaa"
+  ],
+  "voide": [
+    "makkiba"
+  ],
+  "voidella": [
+    "makkavaa"
+  ],
+  "voima": [
+    "džoor",
+    "džooriba",
+    "džoorilba"
+  ],
+  "voimakas": [
+    "džoralo",
+    "friȟko"
+  ],
+  "voimakkaasti": [
+    "džorales"
+  ],
+  "voimala": [
+    "džooreskiiro"
+  ],
+  "voimaton": [
+    "bidžoralo"
+  ],
+  "voimistaa": [
+    "džorjalvaa"
+  ],
+  "voimistua": [
+    "džorjulvaa"
+  ],
+  "voinen": [
+    "tšiljavitiko"
+  ],
+  "vointi": [
+    "aaȟȟiba"
+  ],
+  "voitelija": [
+    "makkiboskiiro"
+  ],
+  "voittaa": [
+    "vinnavaa"
+  ],
+  "voitto": [
+    "vinninga",
+    "vinniba"
+  ],
+  "vuode": [
+    "voodros",
+    "vuondros"
+  ],
+  "vuohi": [
+    "busni"
+  ],
+  "vuokrata": [
+    "hyyravaa"
+  ],
+  "vuoksi": [
+    "ȟaal",
+    "straal"
+  ],
+  "vuori": [
+    "halla",
+    "bar"
+  ],
+  "vuosi": [
+    "bereȟ"
+  ],
+  "vuosisata": [
+    "bereȟȟeel"
+  ],
+  "vuosittainen": [
+    "bereȟavitiko"
+  ],
+  "vuotaa": [
+    "naȟȟaa"
+  ],
+  "vuotaa verta": [
+    "ratšuvaa"
+  ],
+  "vuotuinen": [
+    "bereȟengiiro",
+    "bereȟeskiiro",
+    "bereȟino",
+    "bereȟuuno",
+    "bereȟavitiko"
+  ],
+  "vyyhdetä": [
+    "khuuvarvaa"
+  ],
+  "vyyhti": [
+    "khuuvirba"
+  ],
+  "vyö": [
+    "džöröla",
+    "deri",
+    "doori",
+    "kustik"
+  ],
+  "vähentää": [
+    "kutjavaa"
+  ],
+  "vähiten": [
+    "kuttis",
+    "kuttide"
+  ],
+  "vähäinen": [
+    "tino"
+  ],
+  "vähän": [
+    "kutti"
+  ],
+  "väittää": [
+    "kviilavaa"
+  ],
+  "väkevä": [
+    "tšerko"
+  ],
+  "väki": [
+    "almuuna"
+  ],
+  "väkisin": [
+    "siilaha"
+  ],
+  "väkivalloin": [
+    "siilaha"
+  ],
+  "väkivalta": [
+    "siila"
+  ],
+  "väkivaltainen": [
+    "volvakiiro"
+  ],
+  "väli": [
+    "pertiba"
+  ],
+  "välillä": [
+    "joskaana"
+  ],
+  "välistä": [
+    "joskaana"
+  ],
+  "välke": [
+    "glimmiba"
+  ],
+  "väri": [
+    "förja",
+    "moola"
+  ],
+  "värikkäästi": [
+    "förjakiires"
+  ],
+  "värikäs": [
+    "förjakiiro"
+  ],
+  "värillinen": [
+    "förjakiiro",
+    "förjavitiko"
+  ],
+  "värinen": [
+    "förjakiiro",
+    "förjavitiko"
+  ],
+  "väristä": [
+    "derruvaa",
+    "hiidruvaa"
+  ],
+  "värittäjä": [
+    "moolakiiro"
+  ],
+  "värittää": [
+    "mooljavaa"
+  ],
+  "värjäri": [
+    "förjiboskiiro",
+    "mooljiboskiiro"
+  ],
+  "värjätä": [
+    "förjavaa"
+  ],
+  "värjätä ruskeaksi": [
+    "bruunavaa"
+  ],
+  "värjätä siniseksi": [
+    "blaatavaa"
+  ],
+  "värjäys": [
+    "förjiba"
+  ],
+  "väsymys": [
+    "tšiinjiba"
+  ],
+  "väsymätön": [
+    "bitšinjiboskiiro"
+  ],
+  "väsynyt": [
+    "tšiinjimen",
+    "tšinimen"
+  ],
+  "väsyttää": [
+    "tšiinjavaa"
+  ],
+  "väsyä": [
+    "tšiinjuvaa"
+  ],
+  "vävy": [
+    "džamutro",
+    "džamuttero"
+  ],
+  "vääntää": [
+    "bangavaa"
+  ],
+  "väärentää": [
+    "bangavaa"
+  ],
+  "väärin": [
+    "banges"
+  ],
+  "vääristellä": [
+    "bangavaa"
+  ],
+  "vääristää": [
+    "bangavaa"
+  ],
+  "vääryys": [
+    "bangiba"
+  ],
+  "väärä": [
+    "bangalo",
+    "bango",
+    "falsko",
+    "fielavitiko"
+  ]
+}
