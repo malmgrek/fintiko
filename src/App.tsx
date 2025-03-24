@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react'
 import { FixedSizeList, ListChildComponentProps } from 'react-window';
 import { AppBar, Toolbar, Typography, Switch, Container, Autocomplete, TextField, Box } from '@mui/material'
 import './App.css'
+import * as locales from './locales';
 
 type DictionaryEntry = {
   finnish: string;
@@ -16,28 +17,20 @@ function App() {
   const [selectedEntry, setSelectedEntry] = useState<{ label: string; translation: string } | null>(null)
 
   useEffect(() => {
-    const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ".split("")
-    Promise.all(
-      letters.map(letter =>
-        import(`./locales/${letter}.json`).then(module => module.default)
-      )
-    )
-      .then(results => {
-        const combined: { [key: string]: string[] } = {}
-        results.forEach(result => {
-          Object.assign(combined, result)
-        })
-        const dictArray = Object.entries(combined).map(
-          ([finnish, translations]) => ({
-            finnish,
-            romani: Array.isArray(translations)
-              ? translations.join(", ")
-              : translations,
-          })
-        )
-        setDictionary(dictArray)
+    // Combine all locales imported from locales.ts
+    const combined: { [key: string]: string[] } = {};
+    Object.values(locales).forEach(obj => {
+      Object.assign(combined, obj);
+    });
+    const dictArray = Object.entries(combined).map(
+      ([finnish, translations]) => ({
+        finnish,
+        romani: Array.isArray(translations)
+          ? translations.join(", ")
+          : translations,
       })
-      .catch(err => console.error(err))
+    );
+    setDictionary(dictArray);
   }, [])
   
   const normalize = (str: string) => {
@@ -140,17 +133,19 @@ function App() {
             <TextField {...params} label="Etsi sana" variant="outlined" />
           )}
         />
-        <Box mt={2} sx={{ minHeight: '100px' }}>
+        <Box mt={2} sx={{ minHeight: '100px', textAlign: 'center' }}>
           {selectedEntry ? (
             <Box p={2} border="1px solid #ccc" borderRadius="4px">
-              <Typography variant="h5">{selectedEntry.label}</Typography>
+              <Typography variant="h5" align="center">{selectedEntry.label}</Typography>
               <Typography
                 variant="subtitle1"
+                align="center"
                 sx={{
                   whiteSpace: 'normal',
                   wordBreak: 'break-word',
                   overflowWrap: 'break-word',
                   maxWidth: '80%',
+                  margin: '0 auto',
                 }}
               >
                 {selectedEntry.translation}
