@@ -107,6 +107,7 @@ function App() {
       </Box>
       <Container maxWidth="sm" sx={{ mt: 5 }}>
         <Autocomplete
+          sx={{ width: '500px' }}
           ListboxComponent={VirtualizedListbox}
           options={options}
           getOptionLabel={(option) => option.label}
@@ -117,7 +118,16 @@ function App() {
           }}
           renderOption={(props, option) => (
             <li {...props}>
-              {option.label} - {option.translation}
+              <div
+                style={{
+                  whiteSpace: 'nowrap',
+                  overflow: 'hidden',
+                  textOverflow: 'ellipsis',
+                  width: '100%'
+                }}
+              >
+                {option.label} - {option.translation}
+              </div>
             </li>
           )}
           renderInput={(params) => (
