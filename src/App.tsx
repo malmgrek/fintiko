@@ -94,7 +94,7 @@ function App() {
     <>
       <AppBar position="static">
         <Toolbar sx={{ justifyContent: 'center' }}>
-          <Typography variant="h6" align="center">
+          <Typography variant="h6">
             {isFinnishSearch ? "Suomi – romanikieli" : "Kaalengo – fintiko"}
           </Typography>
         </Toolbar>
@@ -105,9 +105,9 @@ function App() {
         </Typography>
         <Switch checked={!isFinnishSearch} onChange={handleToggle} />
       </Box>
-      <Container maxWidth="sm" sx={{ mt: 5 }}>
+      <Container maxWidth="sm" sx={{ mt: { xs: 2, md: 5 }, px: { xs: 2, md: 0 } }}>
         <Autocomplete
-          sx={{ width: '500px' }}
+          sx={{ width: { xs: '100%', sm: '500px' } }}
           ListboxComponent={VirtualizedListbox}
           options={options}
           getOptionLabel={(option) => option.label}
