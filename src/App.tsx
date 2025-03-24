@@ -57,10 +57,16 @@ function App() {
 
   function renderRow(props: ListChildComponentProps) {
     const { data, index, style } = props;
-    return React.cloneElement(data[index] as React.ReactElement, {
+    const element = data[index] as React.ReactElement<{ style?: React.CSSProperties }>;
+    return React.cloneElement(element, {
       style: {
+        ...element.props.style,
         ...style,
-        top: (style.top as number) + LISTBOX_PADDING,
+        top: ((typeof element.props.style?.top === 'number'
+                ? element.props.style.top
+                : 0) +
+              (style.top as number) +
+              LISTBOX_PADDING),
       },
     });
   }
@@ -108,7 +114,7 @@ function App() {
           ListboxComponent={VirtualizedListbox}
           options={options}
           getOptionLabel={(option) => option.label}
-          onChange={(event, newValue) => setSelectedEntry(newValue)}
+          onChange={(_, newValue) => setSelectedEntry(newValue)}
           filterOptions={(opts, { inputValue }) => {
             const normalizedInput = normalize(inputValue);
             return opts.filter(option => normalize(option.label).startsWith(normalizedInput));
@@ -138,7 +144,17 @@ function App() {
           {selectedEntry ? (
             <Box p={2} border="1px solid #ccc" borderRadius="4px">
               <Typography variant="h5">{selectedEntry.label}</Typography>
-              <Typography variant="subtitle1">{selectedEntry.translation}</Typography>
+              <Typography
+                variant="subtitle1"
+                sx={{
+                  whiteSpace: 'normal',
+                  wordBreak: 'break-word',
+                  overflowWrap: 'break-word',
+                  maxWidth: '80%',
+                }}
+              >
+                {selectedEntry.translation}
+              </Typography>
             </Box>
           ) : null}
         </Box>
