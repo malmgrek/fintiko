@@ -93,8 +93,8 @@ function App() {
   return (
     <>
       <AppBar position="static">
-        <Toolbar>
-          <Typography variant="h6">
+        <Toolbar sx={{ justifyContent: 'center' }}>
+          <Typography variant="h6" align="center">
             {isFinnishSearch ? "Suomi – romanikieli" : "Kaalengo – fintiko"}
           </Typography>
         </Toolbar>
