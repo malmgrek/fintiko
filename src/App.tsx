@@ -19,10 +19,7 @@ function App() {
     const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ".split("")
     Promise.all(
       letters.map(letter =>
-        fetch(`/locales/${letter}.json`).then(res => {
-          if (res.ok) return res.json()
-          return {}
-        })
+        import(`./locales/${letter}.json`).then(module => module.default)
       )
     )
       .then(results => {
@@ -116,20 +113,23 @@ function App() {
             const normalizedInput = normalize(inputValue);
             return opts.filter(option => normalize(option.label).startsWith(normalizedInput));
           }}
-          renderOption={(props, option) => (
-            <li {...props}>
-              <div
-                style={{
-                  whiteSpace: 'nowrap',
-                  overflow: 'hidden',
-                  textOverflow: 'ellipsis',
-                  width: '100%'
-                }}
-              >
-                {option.label} - {option.translation}
-              </div>
-            </li>
-          )}
+          renderOption={(props, option) => {
+            const { key, ...rest } = props;
+            return (
+              <li key={key} {...rest}>
+                <div
+                  style={{
+                    whiteSpace: 'nowrap',
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                    width: '100%'
+                  }}
+                >
+                  {option.label} - {option.translation}
+                </div>
+              </li>
+            );
+          }}
           renderInput={(params) => (
             <TextField {...params} label="Etsi sana" variant="outlined" />
           )}
