@@ -34,7 +34,10 @@ function App() {
   }, [])
   
   const normalize = (str: string) => {
-    return str.toLowerCase().replace(/ȟ/g, 'h');
+    return str.toLowerCase()
+              .replace(/ȟ/g, 'h')
+              .replace(/š/g, "s")
+              .replace(/ž/g, "z");
   }
   
   const handleToggle = () => {
