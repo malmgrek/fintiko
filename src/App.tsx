@@ -4,6 +4,7 @@ import { FixedSizeList, ListChildComponentProps } from 'react-window';
 import { AppBar, Toolbar, Typography, Switch, Container, Autocomplete, TextField, Box } from '@mui/material'
 import './App.css'
 import * as locales from './locales';
+import packageJson from '../package.json';
 
 type DictionaryEntry = {
   finnish: string;
@@ -91,6 +92,11 @@ function App() {
   );
   return (
     <>
+      <Box sx={{ position: 'fixed', top: 10, left: 10 }}>
+        <a href="https://github.com/malmgrek/fintiko" target="_blank" rel="noopener noreferrer">
+          <img src="./github-mark.svg" alt="GitHub" style={{ height: '20px', margin: "5px" }} />
+        </a>
+      </Box>
       <AppBar position="static">
         <Toolbar sx={{ justifyContent: 'center' }}>
           <Typography variant="h6">
@@ -158,7 +164,8 @@ function App() {
         </Box>
       </Container>
       <footer style={{ position: 'fixed', bottom: '20px', left: '50%', transform: 'translateX(-50%)', textAlign: 'center', padding: '10px', fontSize: 'smaller' }}>
-        Source: <a href="https://sanat.csc.fi/wiki/Suomen_romanikielen_verkkosanakirja" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
+        <div>Versio: {packageJson.version}</div>
+        Lähde: <a href="https://sanat.csc.fi/wiki/Suomen_romanikielen_verkkosanakirja" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
           https://sanat.csc.fi/wiki/Suomen_romanikielen_verkkosanakirja
         </a>
       </footer>
